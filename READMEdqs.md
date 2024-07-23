@@ -32,21 +32,25 @@ pip install -r requirements.txt
 Follow these steps to clean data, train the model, and make predictions:
 
 1. **🧹 Clean Data**: Load and clean the raw dataset.
+   
     ```bash
     python main.py
     ```
 
 2. **🎓 Train Model**: Train the model using the cleaned dataset.
+   
     ```bash
     python main.py
     ```
 
 3. **📊 Model Statistics**: Get statistics of the trained model.
+   
     ```bash
     python main.py
     ```
 
 4. **🔍 Test Model**: Test the model with new input data.
+   
     ```bash
     python main.py
     ```
