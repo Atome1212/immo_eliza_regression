@@ -1,7 +1,7 @@
 
-# Immo Eliza Regression
+# Real Estate Price Prediction
 
-Welcome to the Immo Eliza Regression project! This repository contains all the necessary code to clean data, train a model, and predict real estate prices based on various property features. 
+Welcome to the Real Estate Price Prediction project! This repository contains all the necessary code to clean data, train a model, and predict real estate prices based on various property features. 
 
 ## Table of Contents
 
@@ -22,8 +22,8 @@ This project aims to predict real estate prices using machine learning models. T
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/immo-eliza-regression.git
-cd immo-eliza-regression
+git clone https://github.com/yourusername/real-estate-price-prediction.git
+cd real-estate-price-prediction
 pip install -r requirements.txt
 ```
 
