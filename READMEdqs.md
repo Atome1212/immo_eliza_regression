@@ -58,20 +58,20 @@ python main.py
 ### Detailed Explanation
 
 - **Data Cleaning**: 
-    - Remove non-sale data
-    - Strip whitespace
-    - Remove duplicates
-    - Select relevant features
-    - Handle missing values using KNN imputation
+   - Remove non-sale data
+   - Strip whitespace
+   - Remove duplicates
+   - Select relevant features
+   - Handle missing values using KNN imputation
 
 - **Model Training**:
-    - Use `XGBoost` for training
-    - Hyperparameter tuning with `RandomizedSearchCV`
-    - Save the best model
+   - Use `XGBoost` for training
+   - Hyperparameter tuning with `RandomizedSearchCV`
+   - Save the best model
 
 - **Prediction**:
-    - Prepare new data
-    - Load the saved model
-    - Predict the price
+   - Prepare new data
+   - Load the saved model
+   - Predict the price
 
 Creator Atome
