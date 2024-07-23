@@ -1,5 +1,5 @@
 
-# 🏡 Immo Eliza Regression 🏡
+# Immo Eliza Regression
 
 Welcome to the Immo Eliza Regression project! This repository contains all the necessary code to clean data, train a model, and predict real estate prices based on various property features. 
 
@@ -15,14 +15,14 @@ Welcome to the Immo Eliza Regression project! This repository contains all the n
 
 This project aims to predict real estate prices using machine learning models. The pipeline includes data cleaning, feature selection, model training, and price prediction. The code is structured into different modules for easy maintenance and scalability.
 
-![Real Estate](https://miro.medium.com/v2/resize:fit:1000/1*1C3GnoY-FzhqzL0MzTlWyQ.gif)
+![Real Estate](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)
 
 ## Installation
 
 To get started, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/Atome1212/immo-eliza-regression.git
+git clone https://github.com/yourusername/immo-eliza-regression.git
 cd immo-eliza-regression
 pip install -r requirements.txt
 ```
@@ -31,22 +31,22 @@ pip install -r requirements.txt
 
 Follow these steps to clean data, train the model, and make predictions:
 
-1. **🧹 Clean Data**: Load and clean the raw dataset.
+1. **Clean Data**: Load and clean the raw dataset.
     ```bash
     python main.py
     ```
 
-2. **🎓 Train Model**: Train the model using the cleaned dataset.
+2. **Train Model**: Train the model using the cleaned dataset.
     ```bash
     python main.py
     ```
 
-3. **📊 Model Statistics**: Get statistics of the trained model.
+3. **Model Statistics**: Get statistics of the trained model.
     ```bash
     python main.py
     ```
 
-4. **🔍 Test Model**: Test the model with new input data.
+4. **Test Model**: Test the model with new input data.
     ```bash
     python main.py
     ```
@@ -81,8 +81,6 @@ This project is licensed under the MIT License.
 ---
 
 Happy coding! 😊🏡
-
-### Creator: Atome ✨
 
 ## Code Overview
 
