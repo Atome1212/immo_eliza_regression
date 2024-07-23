@@ -27,7 +27,7 @@ cd immo-eliza-regression
 pip install -r requirements.txt
 ```
 
-Download and put the deni's CSV into ./data/csvfile.csv
+Download and put the CSV into ./data/csvfile.csv
 ```
 https://drive.google.com/file/d/1OUcp06JicyPdSeqTWDDuHNjrLxAOHFeR/view?usp=sharing
 ```
