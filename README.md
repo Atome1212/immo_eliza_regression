@@ -8,8 +8,6 @@ Welcome to the Immo Eliza Regression project! This repository contains all the n
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
