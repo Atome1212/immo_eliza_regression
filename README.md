@@ -2,7 +2,7 @@
 # 🏡 Immo Eliza Regression
 <p align="center">
   <a href="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1">
-      <img src="https://miro.medium.com/v2/resize:fit:1000/1*1C3GnoY-FzhqzL0MzTlWyQ.gif" alt="Click me !" width="300" />
+      <img src="https://miro.medium.com/v2/resize:fit:1000/1*1C3GnoY-FzhqzL0MzTlWyQ.gif" alt="Click me !" width="600" />
   </a>
 </p>
 
