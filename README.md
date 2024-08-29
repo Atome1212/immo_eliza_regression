@@ -1,7 +1,10 @@
 
 # 🏡 Immo Eliza Regression
-
-![Real Estate](https://miro.medium.com/v2/resize:fit:1000/1*1C3GnoY-FzhqzL0MzTlWyQ.gif)
+<p align="center">
+  <a href="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1">
+      <img src="https://miro.medium.com/v2/resize:fit:1000/1*1C3GnoY-FzhqzL0MzTlWyQ.gif" alt="Click me !" width="300" />
+  </a>
+</p>
 
 ## 📑 Table of Contents
 - [Introduction](#introduction)
