@@ -11,7 +11,8 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Detailed Explanation](#detailed-explanation)
-- [Authors](#authors)
+- [Author](#authors)
+- [Project Structure](#-project-structure)
 
 ## Introduction
 
@@ -78,12 +79,12 @@ Follow these steps to clean data, train the model, and make predictions:
    - Load the saved model
    - Predict the price
 
-## 👥 Authors
+## Author
 
 - **👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Data Engineer
 
 
-## 🌳 Project Tree
+## Project Structure
 
 ```
 /immo_eliza_regression
