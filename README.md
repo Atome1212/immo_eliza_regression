@@ -86,21 +86,19 @@ Follow these steps to clean data, train the model, and make predictions:
 ## 🌳 Project Tree
 
 ```
-/hangman
-├── Data
-│   └── config.csv
-├── Draft
-│   └── draft.py
+/immo_eliza_regression
 ├── README.md
-├── Utils
-│   ├── __init__.py
-│   ├── __pycache__
-│   │   ├── __init__.cpython-310.pyc
-│   │   ├── __init__.cpython-311.pyc
-│   │   ├── game.cpython-310.pyc
-│   │   └── game.cpython-311.pyc
-│   └── game.py
-└── main.py
+├── data
+│   ├── add_here_the_csv.txt
+│   └── models
+│       └── your_created_models_are_here.txt
+├── main.py
+├── requirements.txt
+├── tree.py
+└── utils
+    ├── clean.py
+    ├── load.py
+    └── model.py
 ```
 
 This tree provides an overview of the project structure, showing where each file and directory is located.
