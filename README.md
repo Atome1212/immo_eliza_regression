@@ -81,3 +81,27 @@ Follow these steps to clean data, train the model, and make predictions:
 ## 👥 Authors
 
 - **👷‍♂️ [Atome1212](https://github.com/Atome1212)**: Data Engineer
+
+
+## 🌳 Project Tree
+
+```
+/hangman
+├── Data
+│   └── config.csv
+├── Draft
+│   └── draft.py
+├── README.md
+├── Utils
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-310.pyc
+│   │   ├── __init__.cpython-311.pyc
+│   │   ├── game.cpython-310.pyc
+│   │   └── game.cpython-311.pyc
+│   └── game.py
+└── main.py
+```
+
+This tree provides an overview of the project structure, showing where each file and directory is located.
+
